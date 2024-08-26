@@ -23,4 +23,4 @@ The dataset includes transactional data from customers who made purchases at Wal
 - **ProductCategory:** Product category (Masked)
 - **Purchase:** Purchase amount
 
-Dataset link: Walmart_data.csv
+Dataset link: [Walmart_data.csv](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/293/original/walmart_data.csv?1641285094)
